@@ -8,6 +8,7 @@ Este projeto é um dashboard interativo criado com [Streamlit](https://streamlit
 - Gráfico de dispersão entre quilometragem e preço
 - Interface interativa com botões
 - Deploy público via Render
+- site: https://car-sales-dashboard-602y.onrender.com/
 
 ## 🚀 Como rodar localmente
 
